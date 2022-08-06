@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data bases, Java, SQL and Object-Oriented Programming**
 
-- 👨‍💻 I'm working in my own projects 
+- 👨‍💻 I'm working in the Mechanical Industry as a Quality Inspector, and developing my programming skills in my own projects 
 
 - 📫 How to reach me **mat.fernandino@gmail.com**
 
