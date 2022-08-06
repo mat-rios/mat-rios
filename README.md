@@ -1,9 +1,11 @@
-- 👋 Hello folks, I’m Matheus Rios
-- 🌱 I’m currently learning Data bases, Java, SQL and Object-Oriented Programming
-- 📫 How to reach me mat.fernandino@gmail.com
-- 📄 Know about my experiences https://www.linkedin.com/in/matheus-fernandino/
+<h1 align="center">👋 Hello folks, I’m Matheus Rios </h1>
+<h3 align="center">I am a Mechanical Engineer with passion for programming</h3>
 
-<!---
-mat-rios/mat-rios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🌱 I’m currently learning **Data bases, Java, SQL and Object-Oriented Programming**
+
+- 👨‍💻 I'm working in my own projects 
+
+- 📫 How to reach me **mat.fernandino@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/matheus-fernandino/](https://www.linkedin.com/in/matheus-fernandino/)
