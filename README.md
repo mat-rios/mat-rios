@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Web development and Data Science**
 
-- 👨‍💻 I'm working in the Mechanical Industry as a Quality Inspector, and developing my programming skills
+- 👨‍💻 I'm working as a Intern Developer, and improving my programming skills
 
 - 📫 How to reach me **mat.fernandino@gmail.com**
 
