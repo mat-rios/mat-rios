@@ -2,7 +2,7 @@
 <h3 align="center">I am a Mechanical Engineer with passion for programming</h3>
 
 
-- 🌱 I’m currently learning **Web development and Data Science**
+- 🌱 I’m currently studying **Back-end development**
 
 - 👨‍💻 I'm working as a Intern Developer, and improving my programming skills
 
